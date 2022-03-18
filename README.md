@@ -20,4 +20,3 @@ como chegar até mim  https://www.linkedin.com/in/bruno-pinheiro-b8150b179/ 😊
 
    
   
-![Snake animation](https://github.com/Bruunopinheiro/Bruunopinheiro/blob/output/github-contribution-grid-snake.svg)
