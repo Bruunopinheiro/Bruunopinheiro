@@ -1,7 +1,7 @@
 ### Hi there 👋
 Me chamo **Bruno Pinheiro** e atualmente estou cursando Análise e Desenvolvimento de Sistemas na *Universidade Estácio de Sá*   💾💻
 
-como chegar até mim  https://www.linkedin.com/in/bruno-pinheiro-b8150b179/ 😊
+como chegar até mim : brunopinheiro3@yahoo.com.br😊
 ##
 <div align="center">
   <a href="https://github.com/Bruunopinheiro">
